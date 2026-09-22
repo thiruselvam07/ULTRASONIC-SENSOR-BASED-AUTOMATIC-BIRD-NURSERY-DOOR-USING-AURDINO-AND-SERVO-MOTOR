@@ -39,11 +39,11 @@ The system was developed using both Tinkercad simulation and a physical hardware
 The Arduino Uno, HC-SR04 ultrasonic sensor, and SG90 servo motor were connected using a breadboard and jumper wires. The complete circuit was then integrated with the cardboard bird nursery model.
 
 The servo motor was mounted inside the nursery, and a wooden stick was connected between the servo horn and the yellow door panel to transfer the servo movement to the door.  
-![][image1]
+     ![circuit](circuitult.jpg)
 
 Figure 5.1: Overall hardware setup of the Arduino-based automatic bird nursery door.
 
-                               ![][image2]
+      ![result](resultt.jpg)
 
 Figure 5.2: Interior view of the cardboard bird nursery model showing the SG90 servo motor and wooden stick linkage.  
 Circuit Connections
@@ -63,12 +63,12 @@ Circuit Connections
 The circuit was simulated using Tinkercad Circuits to verify the distance-sensing and servo-control logic.
 
 During the documented simulation, the HC-SR04 measured a distance of 142.2 cm. Since this value is greater than the programmed 20 cm threshold, the servo remains at the closed-door position.  
-![][image3]
+        ![stimulation](stimulation.jpg)
 
 Figure 6.1: Tinkercad simulation showing a measured distance 
 
 The circuit schematic shows the connections between the Arduino Uno, ultrasonic sensor, and servo motor.  
-              ![][image4]
+         ![schematic](schematic.jpg)
 
 Figure 6.2: Circuit schematic of the automatic bird nursery door system.
 
