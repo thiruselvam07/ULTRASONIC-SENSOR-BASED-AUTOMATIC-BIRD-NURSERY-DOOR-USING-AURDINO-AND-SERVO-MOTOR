@@ -41,9 +41,7 @@ The Arduino Uno, HC-SR04 ultrasonic sensor, and SG90 servo motor were connected 
 The servo motor was mounted inside the nursery, and a wooden stick was connected between the servo horn and the yellow door panel to transfer the servo movement to the door.  
      ![circuit](circuitult.jpg)
 
-Figure 5.1: Overall hardware setup of the Arduino-based automatic bird nursery door.
-
-                                     ![result](resultt.jpg)
+Figure 5.1: Overall hardware setup of the Arduino-based automatic bird nursery doo.                                            ![result](resultt.jpg)
 
 Figure 5.2: Interior view of the cardboard bird nursery model showing the SG90 servo motor and wooden stick linkage.  
 Circuit Connections
